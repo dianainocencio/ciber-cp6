@@ -2,7 +2,6 @@
 
 > **FIAP — Engenharia de Software | Cibersegurança DevSecOps**
 > **Checkpoint 2 — OWASP ZAP CLI no GitHub Actions**
-> **Stack:** Node.js 20 + Express
 
 ---
 
