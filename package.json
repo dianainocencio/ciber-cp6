@@ -1,0 +1,12 @@
+{
+  "name": "lojafacil",
+  "version": "1.0.0",
+  "description": "LojaFacil - vulnerable demo for OWASP ZAP testing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
